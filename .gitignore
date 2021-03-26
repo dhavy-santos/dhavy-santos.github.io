@@ -1,4 +1,6 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+*.lock
+.DS_Store
+_site/
+.sass-cache/
+node_modules/
+package-lock.json
