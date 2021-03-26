@@ -21,11 +21,10 @@ excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
 name: meu site pessoal # Required: will be displayed on every page's header
-title: site title # Required: site's default title
+title: bem vindo # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - one liner one...
-  - one liner two...
-description: "Some short description on your site" # Required
+Este é o teste
+description: "projeto maf" # Required
 
 disqus:
   comments: true # Global toggle on/off disqus comment
