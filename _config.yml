@@ -36,7 +36,7 @@ google_analytics:
 
 collections: # Define post series here
   demo_series:
-    output: false
+    output: true
 
 defaults:
   - scope:
