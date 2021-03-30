@@ -2,7 +2,7 @@
 category: doc
 tags: [jogo]
 ---
-# Alguns jogos interessantes
+## Alguns jogos interessantes
 
 **Simcity**
 O simulador de cidade definitivo! Construa a cidade que quiser e tome as decisões que definem sua cidade e movem os cidadãos que moram nela. Todas as decisões, grandes ou pequenas, têm consequências reais
@@ -18,7 +18,8 @@ Starbound é ocorre em um universo bidimensional gerado por procedimentos que o 
 
 ![De Chucklefish ](https://i.ytimg.com/vi/-O6PUh3reG0/hqdefault.jpg)
 
-Grounded
+**Grounded**
 Grounded é um jogo de sobrevivência em mundo vasto, bonito e perigoso - especialmente quando você foi reduzido ao tamanho de uma formiga.
+
 ![steam ](https://cdn.cloudflare.steamstatic.com/steam/apps/962130/header.jpg?t=1612223835)
 
