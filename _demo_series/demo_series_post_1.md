@@ -1,17 +1,14 @@
 ---
 ---
 
-Series are enssentially Jekyll Collections. So to add new series is like adding new collections. Say we want to add series `tutorial`
+## The arrow
+Após um violento naufrágio, o playboy milionário Oliver Queen é dado como morto. Cinco anos depois, é resgatado de uma ilha do Pacífico e enviado de volta para Starling City, onde passa a agir como vigilante secreto.
 
-1. config your series in `_config.yml` like
+![](https://www.urgeofcreativity.com/wp-content/uploads/2016/09/The-Arrow-featured-image-696x392.jpeg)
 
-```yaml
-collections:
-  tutorial:
-    output: true
-```
 
-2. make corresponding series folder under project root: `_tutorial/`
-3. post under series by adding new markdown file into `_tutorial/`
+**cobra kai**
 
-See [Jekyll official doc on `Collections`](https://jekyllrb.com/docs/collections/)
+Trinta e quatro anos depois do torneio de caratê All Valley, Johnny Lawrence busca a redenção reabrindo o Cobra Kai e reacende sua rivalidade com o bem-sucedido Daniel LaRusso
+
+![](https://img.ibxk.com.br//ms/images/highlights/000/049/059/46307.jpg)
