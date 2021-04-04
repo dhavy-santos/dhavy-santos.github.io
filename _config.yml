@@ -23,7 +23,6 @@ url: # Required: replace this with your domain
 name: Bem-vindo!! # Required: will be displayed on every page's header
 title: site de Dhavy # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  -  Maf 172
   - site de Dhavy
 
 description: "projeto maf" # Required
