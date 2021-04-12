@@ -18,4 +18,5 @@ Diep.io é um jogo multijogador massivo online em que o jogador controla um tanq
 é um jogo multijogador online de ação criado por Matheus Valadares. Os jogadores controlam uma célula em um mapa representando uma placa de Petri; o objetivo é ganhar o máximo de massa possível ao engolir células menores sem ser engolido por outras maiores. 
 
 
+
 ![](https://upload.wikimedia.org/wikipedia/en/1/19/Agar.io_appstore_logo.png)
