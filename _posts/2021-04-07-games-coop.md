@@ -10,7 +10,9 @@ Enquanto tenta reverter a situação, algo mágico acontece e seus pais são tra
 
 ![](https://i1.wp.com/nosnerds.com.br/wp-content/uploads/2020/12/ittakestwo-capa.jpg?fit=870%2C450&ssl=1)
 
-Stardew Valley
+**Stardew Valley**
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.playstation.com%2Fpt-br%2Fproduct%2FUP2456-CUSA06840_00-STARDEW00000SIEA&psig=AOvVaw23-ie3O2h5L9oVLjkXAJYA&ust=1617894120601000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiU2bWz7O8CFQAAAAAdAAAAABAT)
+é um RPG sem fim da vida no campo! Você herdou a antiga fazenda de seu avô no Vale do Orvalho. Equipado com ferramentas de segunda mão e algumas moedas, você irá começar sua nova vida.
+
+![](https://lh3.googleusercontent.com/IRzV1qSynfxIIS3huwZuAc5V8Jbej8N2dvX-yuVcCeCbRfgMGOxOjO_KlJpVH9d8jQ1cOXdSp5cL__8KOdlMeVyh0Q)
 
