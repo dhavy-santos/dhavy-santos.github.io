@@ -16,3 +16,9 @@ Enquanto tenta reverter a situação, algo mágico acontece e seus pais são tra
 
 ![](https://lh3.googleusercontent.com/IRzV1qSynfxIIS3huwZuAc5V8Jbej8N2dvX-yuVcCeCbRfgMGOxOjO_KlJpVH9d8jQ1cOXdSp5cL__8KOdlMeVyh0Q)
 
+**A Way Out**
+
+A Tale of Two Sons chega A Way Out, uma aventura exclusivamente cooperativa na qual você assume o papel de um dos dois prisioneiros em uma fuga da prisão.
+
+
+![](https://upload.wikimedia.org/wikipedia/pt/e/e2/A_way_out_capa.png)
